@@ -4,7 +4,7 @@ import json
 
 def load_questions_from_web():
     """
-    Loads questions bank from file	## FILE SUPPORT TO BE ADDED LATER
+    Loads questions bank from file
     Recieves: -
     Returns: questions dictionary
     """
